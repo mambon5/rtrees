@@ -1,7 +1,9 @@
 # rtrees
 regression trees
 
-IN the article of (Local models-based regression trees for very short-term wind speed prediction A. Troncoso a, *, S. Salcedo-Sanz b, C. Casanova-Mateo c, J.C. Riquelme d, L. Prieto) a regression tree model is used for wind prediction for wind turbines, in which a regression model is used in each of the tree leaves. The question is how is this regression tree constructed? They say with the method of 
+IN the article of _(Local models-based regression trees for very short-term wind speed prediction A. Troncoso a, *, S. Salcedo-Sanz b, C. Casanova-Mateo c, J.C. Riquelme d, L. Prieto - SPAIN)_ a regression tree model is used for wind prediction for wind turbines, in which a regression model is used in each of the tree leaves. The question is how is this regression tree constructed? They say with the method of _(Luís Torgo LIACC - University of Porto - PORTUGAL)_ which grows a CART (Brieman 1984) tree with a different error function. Then it uses either a Kernel Regression or Linear Regression to make predictions on the new instances that fall within a tree node. Not very ground-breaking.
+
+My idea of allowing diagonal splits seems more chupi-funny bunzy than the Iberian approach. :D
 
 # asistencia a clase universitaria
 Constitucion española -> Artículo 27.10 "Se reconoce la autonomía de las Universidades, en los términos que la ley establezca."
