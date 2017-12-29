@@ -39,3 +39,5 @@ Estatut UPC 2012:
 Article 182. Estudiantes.
 Son estudiantes de la Universitat Politècnica de Catalunya las personas matriculadas 
 en las enseñanzas impartidas por la Universidad
+
+HI ha un síndic de greuges!
