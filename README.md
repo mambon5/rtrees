@@ -41,3 +41,16 @@ Son estudiantes de la Universitat Politècnica de Catalunya las personas matricu
 en las enseñanzas impartidas por la Universidad
 
 HI ha un síndic de greuges!
+
+
+# lebara calling prices with Dutch SIM
+
+National prepaid pay as you go tariffs in the Netherlands 10=20 call credit
+Mobile 	26ct/min
+Landline 	12ct/min
+Calls from Lebara to Lebara* 	   FREE*
+SMS from Lebara to Lebara 	10ct/message
+SMS 	21ct/message
+Mobile internet (Charged per 100kB) 	49ct/MB
+Start rate for calling landlines and mobiles (national or international calls) 	23ct/call
+Voicemail (1233), rate per call 	20ct/call
