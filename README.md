@@ -19,7 +19,7 @@ Maybe do a summer school in optimization or lasso regression this year? :/
 
 # optimization problem solution speed
 
-![alt text](https://user-images.githubusercontent.com/28844803/34721941-1174200e-f545-11e7-9b37-9acca85ab337.jpg)
+![alt text](https://user-images.githubusercontent.com/28844803/34734357-c94f980e-f56b-11e7-9eae-7dcb95f8f9e2.jpg)
 
 # asistencia a clase universitaria
 Constitucion española -> Artículo 27.10 "Se reconoce la autonomía de las Universidades, en los términos que la ley establezca."
