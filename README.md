@@ -13,7 +13,7 @@ The problem I see in this is that if a covariate has two symmetric extreme value
 
 # optimization problem solution speed
 
-[https://user-images.githubusercontent.com/28844803/34721941-1174200e-f545-11e7-9b37-9acca85ab337.jpg]
+![alt text](https://user-images.githubusercontent.com/28844803/34721941-1174200e-f545-11e7-9b37-9acca85ab337.jpg)
 
 # asistencia a clase universitaria
 Constitucion española -> Artículo 27.10 "Se reconoce la autonomía de las Universidades, en los términos que la ley establezca."
