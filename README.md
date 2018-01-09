@@ -11,7 +11,7 @@ seems good. minimize {Y-Xb} while trying |b1| + ... + |bm| < t, for t a regulari
 
 It is very interesting to see the L1 norm geometric interpretation of the lasso regression which seems to make it more likely for a convex surface to hit a orthogonal coefficeints state than it would if the regularity condition was in L2 norm as is the case of the ridge regression.
 
-https://user-images.githubusercontent.com/28844803/34734128-fd351e74-f56a-11e7-9cc7-19cac3c24c17.jpg
+![alt text](https://user-images.githubusercontent.com/28844803/34734128-fd351e74-f56a-11e7-9cc7-19cac3c24c17.jpg)
 
 The problem I see in this is that if a covariate has two symmetric extreme values like -0.5 and 0.5 while all the others are close to zero like 0.00001,0.00002, 0.00003, 0.00004,..., -0.0001, then the mean is 0 and the squared sum can be 1 but assuming that just the close to zero values are meaningful, the coefficient for this covariate would likely be of the order of 10^5 if the response Y is of the order of 1. This obviously creates a too big coefficient that won't be accepted if _t_ ~ 10^4 or smaller.
 
