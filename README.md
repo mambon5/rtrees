@@ -15,6 +15,8 @@ It is very interesting to see the L1 norm geometric interpretation of the lasso 
 
 The problem I see in this is that if a covariate has two symmetric extreme values like -0.5 and 0.5 while all the others are close to zero like 0.00001,0.00002, 0.00003, 0.00004,..., -0.0001, then the mean is 0 and the squared sum can be 1 but assuming that just the close to zero values are meaningful, the coefficient for this covariate would likely be of the order of 10^5 if the response Y is of the order of 1. This obviously creates a too big coefficient that won't be accepted if _t_ ~ 10^4 or smaller.
 
+Maybe do a summer school in optimization or lasso regression this year? :/
+
 # optimization problem solution speed
 
 ![alt text](https://user-images.githubusercontent.com/28844803/34721941-1174200e-f545-11e7-9b37-9acca85ab337.jpg)
