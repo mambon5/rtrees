@@ -5,6 +5,12 @@ IN the article of _(Local models-based regression trees for very short-term wind
 
 My idea of allowing diagonal splits seems more chupi-funny bunzy than the Iberian approach. :D
 
+# lasso regression
+
+seems good. minimize {Y-Xb} while trying |b1| + ... + |bm| < t, for t a regularization constant of our choosing. Note that previously the variables Y,Xi have been centered Y = Y-mean(Y), Xi = Xi - mean(Xi) and the covariats have been normalised, Xi1^2 + ... + XiN^2 = 1. Then the regression penalised big coefficients and favours coefficients that are zero.
+
+The problem I see in this is that if a covariate has two symmetric extreme values like -0.5 and 0.5 while all the others are close to zero like 0.00001,0.00002, 0.00003, 0.00004,..., -0.0001, then the mean is 0 and the squared sum can be 1 but assuming just the close to zero values are meaningful, the coefficient for this covariate will be of the order of 10^5 if the response Y is of the order of 1. This obviously creates a too big coefficient that won't be accepted if _t_ ~ 10^4 or smaller.
+
 # asistencia a clase universitaria
 Constitucion española -> Artículo 27.10 "Se reconoce la autonomía de las Universidades, en los términos que la ley establezca."
 
