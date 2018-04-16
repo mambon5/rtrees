@@ -76,3 +76,4 @@ Voicemail (1233), rate per call 	20ct/call
 
 # to do 16.04.2018
 1- Create a Barcelona Internet network. 
+2- Fer una samarreta amb jeroglífics egipcis
