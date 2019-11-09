@@ -79,4 +79,4 @@ Voicemail (1233), rate per call 	20ct/call
 2- Fer una samarreta amb jeroglífics egipcis
 
 # to do 09.11.2019
-1-Crear els simbols per una base de 16-digits en comptes d'una de 10. I utilitzar-la en els futurs articles i publicacions que faci.
+1-Crear els simbols per una base de 16-digits en comptes d'una de 10. I utilitzar-la en els futurs articles i publicacions que faci. Pero pensar també: De què servirà utilitzar una base de 16 dígits en comptes de només 10? Quins beneficis tindrà?
