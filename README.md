@@ -79,4 +79,8 @@ Voicemail (1233), rate per call 	20ct/call
 2- Fer una samarreta amb jeroglífics egipcis
 
 # to do 09.11.2019
-1-Crear els simbols per una base de 16-digits en comptes d'una de 10. I utilitzar-la en els futurs articles i publicacions que faci. Pero pensar també: De què servirà utilitzar una base de 16 dígits en comptes de només 10? Quins beneficis tindrà?
+3-Crear els simbols per una base de 16-digits en comptes d'una de 10. I utilitzar-la en els futurs articles i publicacions que faci. Pero pensar també: De què servirà utilitzar una base de 16 dígits en comptes de només 10? Quins beneficis tindrà?
+
+# to do 21.11.2019
+4-Agafar cabells humans i mesurar els Newtons que poden aguantar abans de trencar-se. Fer el mateix amb les fibres actualment utilitzades en la "indústira" per el mateix diametre i llargada. Considerar feixos de cabells que podrien forman una corda i aguantar grans forces. Pregunta: Com lligar entre si feixos de cabells per formar corder de diguem-ne 3 metres? Potser no call lligarlos i una solució alternativa pot ser trobada.
+2-Escriure un llibre sobre perquè cal abolir la justícia: i.e. són uns censuradors i sempre poden estar influenciats pel poder. Sempre ho estan de fet. De fet, estem més segurs sense justícia i policia que amb ells. Abolir-ho ja.
